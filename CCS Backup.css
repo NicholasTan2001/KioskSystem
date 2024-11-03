@@ -1,0 +1,371 @@
+@import url('https://fonts.cdnfonts.com/css/gagalin');
+
+.box{
+
+    background-image: url(FK.png);
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: auto;
+    height: 100%;
+}
+
+
+
+body{
+
+    height: 100%;
+    margin: 0;
+}
+
+html{
+
+    height: 100%;
+    margin: 0;
+}
+
+.bannerText{
+
+    background-color: rgb(171, 218, 218);
+    color:black;
+    margin: auto;
+    padding: 30px;
+    margin-left:auto;
+    margin-right:auto;
+    width:auto 100%;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Gagalin', sans-serif; 
+    overflow: auto;
+}
+
+.footer{
+
+    margin-left:auto;
+    margin-right:auto;
+    width:auto;
+    background-color: rgb(171, 218, 218);
+    color:black;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+	  height: 10px;
+
+}
+
+h1{
+
+    background-color: rgb(171, 218, 218);
+    padding:20px;
+    text-align: center;
+    width:auto;
+    margin: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    overflow: auto;
+    width: 70%;
+    
+}
+
+.button-27 {
+  appearance: none;
+  background-color: #b9b4b4;
+  border: 2px solid #858282;
+  border-radius: 15px;
+  box-sizing: border-box;
+  color: #171414;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: normal;
+  margin: 0;
+  min-height: 80px;
+  min-width: 0;
+  outline: none;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 35%;
+  will-change: transform;
+}
+
+.button-27:disabled {
+  pointer-events: none;
+}
+
+.button-27:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+}
+
+.button-27:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+
+.loginForm {
+    padding: 75px;
+    border: 3px solid rgb(250, 253, 254);
+    text-align:Left;
+    margin:60px;
+    background-color: rgb(183, 190, 190);
+    margin-left:auto;
+    margin-right:auto;
+    width:400px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+
+.loginDetails input{
+
+    display: inline-block;
+
+}
+
+.button-28 {
+    appearance: none;
+    background-color: #b9b4b4;
+    border: 2px solid #858282;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #171414;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 15px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 40px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 30%;
+    will-change: transform;
+  }
+  
+  .button-28:disabled {
+    pointer-events: none;
+  }
+  
+  .button-28:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+  }
+  
+  .button-28:active {
+    box-shadow: none;
+    transform: translateY(0);
+  }
+
+input{
+
+    border-radius: 10px;
+    padding: 8px;
+
+}
+
+.userRoles{
+
+  border: 3px solid rgb(19, 20, 20);
+  border-radius: 10px;
+  padding: 10px;
+  width: 60%;
+
+}
+
+ul {
+  list-style-type:none;
+  margin-top: -819px;
+  padding: 0;
+  width:auto;
+
+}
+
+li a {
+  display: block;
+  width: 130px;
+  background-color: #79b4e7;
+  font-size: 16px;
+  padding: 25px;
+  text-align:center;
+  font-family: verdana;
+  color: white;
+  padding: 25px;
+}
+
+ul li a:hover {
+
+  text-decoration: underline; 
+  color: #8b98ad; 
+  background-color: rgb(234, 241, 239);
+
+}
+
+ul li a:active {
+  border: 3px solid #6c8184; 
+
+}
+
+
+.title{
+
+  background-color: rgb(171, 218, 218);
+  padding:20px;
+  text-align: center;
+  width:auto;
+  margin: 0 auto;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  overflow: auto;
+  width: 100%;
+  max-width: 750px;
+  
+}
+
+.nav-userprofile{
+
+  list-style-type:none;
+  margin-top: -967px;
+  padding: 0;
+  width:auto;
+
+}
+
+.nav-membership{
+
+    list-style-type:none;
+    margin-top: -658px;
+    padding: 0;
+    width:auto;
+  
+  }
+
+  .nav-alluserprofile {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .nav-alluserprofile li {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-alluserprofile li a {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-alluserprofile li a:hover {
+    color: #0d4b8e; /* Change to your preferred hover color */
+  }
+
+ 
+  .nav-AdminReport{
+
+    list-style-type:none;
+    margin-top: -830px;
+    padding: 0;
+    width:auto;
+  
+  }
+
+
+table{
+
+    background-color: #a5a5a5;
+    width: 400px;
+
+
+}
+  
+th{
+
+    font-size: 15px;
+    background-color: rgb(174, 196, 230);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+
+
+}
+
+  
+td{
+
+    font-size: 13px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+
+
+@media screen and (max-width: 1200px) {
+  .box {
+    display: block;
+  }
+
+  ul {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .nav-userprofile{
+    margin-top: 20px;
+    text-align: center;
+
+  }
+
+  .nav-membership{
+    margin-top: 20px;
+    text-align: center;
+
+  }
+
+  .nav-alluserprofile{
+    margin-top: 20px;
+    text-align: center;
+
+  }
+
+  li {
+    display: inline-block;
+    margin: 10px;
+  }
+}
+
+
+
+
+@media screen and (max-width: 1200px) {
+  .box {
+    display: block;
+  }
+
+  .title img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
